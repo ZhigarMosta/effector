@@ -1,0 +1,25 @@
+.page {
+  text-align: center;
+  margin-top: 70px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 75vh;
+}
+.display_flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.button_container {
+	margin-top: 50px;
+	display: flex;
+  gap: 50px;
+}
+.count{
+	margin-top: 50px;
+}
